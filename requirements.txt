@@ -4,4 +4,4 @@ matplotlib.pyplot
 numpy
 plotly
 cufflinks
-plotly
+folium
